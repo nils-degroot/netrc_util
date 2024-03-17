@@ -1,0 +1,17 @@
+[package]
+name = "netrc_util"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nils de Groot <nils@peeko.nl>"]
+license = "MIT"
+description = "A simple libary for parsing netrc files"
+readme = "README.md"
+homepage = "https://www.github.com/nils-degroot/netrc_util"
+repository = "https://www.github.com/nils-degroot/netrc_util"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom = "7.1.3"
+url = "2.5.0"
+anyhow = "1.0.81"
