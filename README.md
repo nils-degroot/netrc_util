@@ -1,5 +1,7 @@
 # `netrc_util`
 
+![crates.io](https://img.shields.io/crates/v/netrc_util.svg)
+
 A simple libary for parsing [netrc](https://www.gnu.org/software/inetutils/manual/html_node/The-_002enetrc-file.html) files.
 
 ## Usage
